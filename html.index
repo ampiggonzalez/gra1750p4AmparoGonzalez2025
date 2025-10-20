@@ -2,8 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Invitación de boda — Delfina & Magglio</title>
+   <title>Wedding Invitation| Amparo Gonzalez| 2025</title>
   <style>
     body {
       font-family: "Georgia", serif;
@@ -83,28 +82,20 @@
 <body>
   <wrapper>
     <header>
-      <h1>Delfina &amp; Magglio</h1>
-      <p>Con amor y alegría, te invitamos a compartir el día más especial de nuestras vidas.</p>
+<h2>With love and delight, we request ypur presence at the union of</h2>
+     
     </header>
 
     <main>
-      <p>Después de tantos momentos juntos, llegó el día de decir “sí, quiero”.</p>
+ <h1>Delfina &amp; Magglio</h1>
 
-      <time datetime="2026-07-13">Sábado 13 de julio de 2026 — 17:00 hs</time>
-
-      <p>La ceremonia se llevará a cabo en la <strong>Iglesia San Martín</strong> y luego celebraremos en el <strong>Salón Los Álamos</strong>, Av. Principal 123, Ciudad.</p>
-
-      <p>Será un día lleno de emociones, risas y mucho amor. ¡Nos encantaría contar con tu presencia!</p>
-
-      <section>
-        <h2>Confirmación de asistencia</h2>
-        <p>Por favor confirmá tu presencia antes del <strong>20 de junio</strong> al correo: <strong>delfinaymagglio@boda.com</strong></p>
-      </section>
     </main>
 
     <footer>
-      <p>Con cariño,</p>
-      <p><strong>Delfina &amp; Magglio</strong></p>
+<h3></h3Saturday, July 13, 2026</h3>
+<h4>Magnolia Courtyard 5038 Main</h4>
+<h4>Dr.New Hope, AL 35760</h4>
+
     </footer>
   </wrapper>
 </body>
