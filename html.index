@@ -9,7 +9,7 @@
 		margin: 0;
       padding: 0;
 		height: 100vh;
-		background-image: url("foto-pettine-IfjHaIoAoqE-unsplash.jpg");
+		background-image: url(foto-pettine-IfjHaIoAoqE-unsplash.jpg);
 		background-size: cover;
 		background-position: center;
 			background-repeat: no-repeat;
@@ -19,11 +19,12 @@
 
     wrapper {
       display: block;
-      max-width: 800px;
+      max-width: 650px;
 		width: 90%;
+	    height: 60%;
       margin: 2rem auto;
       background-color: rgba(0,0,0,0.1);
-      border: 2px solid #e3c5c5;
+      border: 2px solid #627373;
       border-radius: 10px;
 		 padding: 2rem;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -31,39 +32,45 @@
     }
 
     header {
-      background-color: rgba(0,0,0,0.1);
+		margin-top: 5%;
+      background-color: #BFBFBD;
       padding: 1rem;
       border-radius: 8px;
+		font-size: 15px;
     }
 
     header h1 {
       margin: 0;
-      color: #b46b72;
-      font-size: 2.2rem;
+		font-size: 15px;
+      color: ##627373;
+       
     }
 
     header p {
       font-style: italic;
-      margin: 0.5rem 0 0;
+		font-size: 15px;
       color: #666;
     }
 
     main {
-      margin-top: 2rem;
+      margin-top: 10%;
+		font-size: 30px;
     }
 
     main p {
-      font-size: 1.1rem;
+		
+      font-size: 2em;
       margin: 1rem 0;
       line-height: 1.6;
+	
     }
 
     main time {
+	
       display: block;
       margin: 1.2rem 0;
       font-weight: bold;
-      color: #b46b72;
-      font-size: 1.2rem;
+      color: ##627373;
     }
 
     section {
@@ -71,16 +78,16 @@
     }
 
     section h2 {
+
       color: #b46b72;
-      font-size: 1.2rem;
       margin-bottom: 0.5rem;
     }
 
     footer {
       margin-top: 2rem;
-      border-top: 1px solid #e3c5c5;
-      padding-top: 1rem;
-      font-size: 0.9rem;
+      border-top: 1px solid #627373;
+      padding-bottom: 100px;
+      font-size: 20px;
       color: #777;
     }
   </style>
@@ -93,7 +100,9 @@
     </header>
 
     <main>
- <h1>Delfina &amp; Magglio</h1>
+ <h1>Delfina</h1>
+		<h1>&amp; </h1>
+		<h1>Magglio</h1>
 
     </main>
 
